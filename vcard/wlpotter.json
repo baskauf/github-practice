@@ -1,1 +1,65 @@
-["vcard", [["version", {}, "text", "4.0"], ["n", {}, "text", ["Potter", "Harry", "", "", ""]], ["fn", {}, "text", "Harry Potter"], ["title", {}, "text", "Au9ror"], ["adr", {"label": "4 Privet Drive\nLittle Whinging, TN 37212\nUnited Statevs of America", "type": "work", "pref": "1"}, "text", ["", "", "4 Privet Drive", "Little Whinging", "TN", "37212", "United Statevs of America"]], ["email", {}, "text", "hpotter@hogwarts.alumni.edu"], ["rev", {}, "timestamp", "2019-10-07T20:36:11-05:00"]]]
+[
+  "vcard",
+  [
+    [
+      "version",
+      {},
+      "text",
+      "4.0"
+    ],
+    [
+      "n",
+      {},
+      "text",
+      [
+        "Potter",
+        "Harry",
+        "",
+        "",
+        ""
+      ]
+    ],
+    [
+      "fn",
+      {},
+      "text",
+      "Harry Potter"
+    ],
+    [
+      "title",
+      {},
+      "text",
+      "Auror"
+    ],
+    [
+      "adr",
+      {
+        "label": "4 Privet Drive\nLittle Whinging, TN 37212\nUnited States of America",
+        "type": "work",
+        "pref": "1"
+      },
+      "text",
+      [
+        "",
+        "",
+        "4 Privet Drive",
+        "Little Whinging",
+        "TN",
+        "37212",
+        "United States of America"
+      ]
+    ],
+    [
+      "email",
+      {},
+      "text",
+      "hpotter@hogwarts.alumni.edu"
+    ],
+    [
+      "rev",
+      {},
+      "timestamp",
+      "2019-10-07T20:36:11-05:00"
+    ]
+  ]
+]
