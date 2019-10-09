@@ -1,1 +1,65 @@
-["vcard", [["version", {}, "text", "4.0"], ["n", {}, "text", ["Banffy", "Elias Banffy", "", "", ""]], ["fn", {}, "text", "Elias Banffy Banffy"], ["title", {}, "text", "Pro5duct Manager"], ["adr", {"label": "1694 19th Ave East\nDenver, CO 37943\nUnitced States of America", "type": "work", "pref": "1"}, "text", ["", "", "1694 19th Ave East", "Denver", "CO", "37943", "Unitced States of America"]], ["email", {}, "text", "ebanffy@gogle.com"], ["rev", {}, "timestamp", "2019-10-07T20:36:07-05:00"]]]
+[
+    "vcard",
+    [
+        [
+            "version",
+            {},
+            "text",
+            "4.0"
+        ],
+        [
+            "n",
+            {},
+            "text",
+            [
+                "Banffy",
+                "Elias Banffy",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            "fn",
+            {},
+            "text",
+            "Elias Banffy Banffy"
+        ],
+        [
+            "title",
+            {},
+            "text",
+            "Pro5duct Manager"
+        ],
+        [
+            "adr",
+            {
+                "label": "1694 19th Ave East\nDenver, CO 37943\nUnitced States of America",
+                "type": "work",
+                "pref": "1"
+            },
+            "text",
+            [
+                "",
+                "",
+                "1694 19th Ave East",
+                "Denver",
+                "CO",
+                "37943",
+                "United States of America"
+            ]
+        ],
+        [
+            "email",
+            {},
+            "text",
+            "ebanffy@google.com"
+        ],
+        [
+            "rev",
+            {},
+            "timestamp",
+            "2019-10-07T20:36:07-05:00"
+        ]
+    ]
+]
