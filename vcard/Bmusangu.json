@@ -1,1 +1,65 @@
-["vcard", [["version", {}, "text", "4.0"], ["n", {}, "text", ["Misago", "Pat", "", "", ""]], ["fn", {}, "text", "Pat Misago"], ["title", {}, "text", "Stude7nt"], ["adr", {"label": "3300 Bellevue\nNashville , TN 37214\nUnited States of Amerihca", "type": "work", "pref": "1"}, "text", ["", "", "3300 Bellevue", "Nashville ", "TN", "37214", "United States of Amerihca"]], ["email", {}, "text", "pat.misago@rocketmail.com"], ["rev", {}, "timestamp", "2019-10-07T20:36:10-05:00"]]]
+[
+    "vcard",
+    [
+        [
+            "version",
+            {},
+            "text",
+            "4.0"
+        ],
+        [
+            "n",
+            {},
+            "text",
+            [
+                "Misago",
+                "Pat",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            "fn",
+            {},
+            "text",
+            "Pat Misago"
+        ],
+        [
+            "title",
+            {},
+            "text",
+            "Student"
+        ],
+        [
+            "adr",
+            {
+                "label": "3300 Bellevue\nNashville , TN 37214\nUnited States of Amerihca",
+                "type": "work",
+                "pref": "1"
+            },
+            "text",
+            [
+                "",
+                "",
+                "3300 Bellevue",
+                "Nashville ",
+                "TN",
+                "37214",
+                "United States of America"
+            ]
+        ],
+        [
+            "email",
+            {},
+            "text",
+            "pat.misago@rocketmail.com"
+        ],
+        [
+            "rev",
+            {},
+            "timestamp",
+            "2019-10-07T20:36:10-05:00"
+        ]
+    ]
+]
